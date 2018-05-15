@@ -1,0 +1,11 @@
+/give @p bow 1 0 {
+    display: {
+        Name: "ワルサー PPK (レベル 1) "
+    },
+    ench: [
+        {
+            id: 48,
+            lvl: 6
+        }
+    ]
+}

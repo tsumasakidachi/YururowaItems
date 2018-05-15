@@ -1,0 +1,25 @@
+/give @p bow 1 0 {
+    display: {
+        Name: "カラビーナー 98 クルツ (レベル 2)"
+    },
+    AttributeModifiers: [
+        {
+            AttributeName: "generic.movementSpeed",
+            Name: "generic.movementSpeed",
+            Amount: -0.3,
+            Operation: 2,
+            UUIDMost: 21686,
+            UUIDLeast: 599399
+        }
+    ],
+    ench: [
+        {
+            id: 48,
+            lvl: 12
+        },
+        {
+            id: 49,
+            lvl: 1
+        }
+    ]
+}

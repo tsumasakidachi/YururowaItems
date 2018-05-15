@@ -1,0 +1,25 @@
+/give @p bow 1 0 {
+    display: {
+        Name: "M1 ガーランド (レベル 2)"
+    },
+    AttributeModifiers: [
+        {
+            AttributeName: "generic.movementSpeed",
+            Name: "generic.movementSpeed",
+            Amount: -0.25,
+            Operation: 2,
+            UUIDMost: 17599,
+            UUIDLeast: 259709
+        }
+    ],
+    ench: [
+        {
+            id: 48,
+            lvl: 11
+        },
+        {
+            id: 49,
+            lvl: 1
+        }
+    ]
+}

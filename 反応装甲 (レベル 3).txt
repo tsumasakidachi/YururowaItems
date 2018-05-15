@@ -1,0 +1,15 @@
+/give @p golden_chestplate 1 109 {
+    display: {
+        Name: "反応装甲 (レベル 3)"
+    },
+    ench: [
+        {
+            id: 0,
+            lvl: 6
+        },
+        {
+            id: 7,
+            lvl: 28
+        }
+    ]
+}

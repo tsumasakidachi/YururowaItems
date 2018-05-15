@@ -1,0 +1,11 @@
+/give @p bow 1 0 {
+    display: {
+        Name: "M1911 (レベル 1)"
+    },
+    ench: [
+        {
+            id: 48,
+            lvl: 7
+        }
+    ]
+}

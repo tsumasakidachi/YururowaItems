@@ -1,0 +1,29 @@
+/give @p bow 1 0 {
+    display: {
+        Name: "フランキ スパス 12 (レベル 3)"
+    },
+    AttributeModifiers: [
+        {
+            AttributeName: "generic.movementSpeed",
+            Name: "generic.movementSpeed",
+            Amount: -0.4,
+            Operation: 2,
+            UUIDMost: 94604,
+            UUIDLeast: 231275
+        }
+    ],
+    ench: [
+        {
+            id: 48,
+            lvl: 16
+        },
+        {
+            id: 49,
+            lvl: 3
+        },
+        {
+            id: 50,
+            lvl: 1
+        }
+    ]
+}
